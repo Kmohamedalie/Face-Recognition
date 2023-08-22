@@ -1,9 +1,7 @@
 # Face Recognition (SVM , GridSearchCV, PCA, Ml-Pipeline)
 <!-- ![image](https://github.com/Kmohamedalie/Oxford-Parkinson-Diesease-Detection/assets/63104472/a4673a89-67d5-40c8-b9b5-daf60e18293e) -->
 
-![image](https://github.com/Kmohamedalie/Face-Recognition-PCA-SVM/assets/63104472/8b20a86d-5898-4de0-9497-6c8f46b0f5d5)
-
-
+![image](https://github.com/Kmohamedalie/Face-Recognition-PCA-SVM/assets/63104472/ea4a25c8-adb4-4d50-8a36-4fa317585cd7)
 
 **image source:**  [UMASS](http://vis-www.cs.umass.edu/lfw/)
 
@@ -16,8 +14,8 @@
 
 **Task:** In this repository we are only going to classify the faces of famous people, while the database contains over five (500) different people.
 
-![image](https://github.com/Kmohamedalie/Face-Recognition-PCA-SVM/assets/63104472/ea4a25c8-adb4-4d50-8a36-4fa317585cd7)
 
+**Techniques and Algorithms applied:** [Principal Component Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis), [Support Vector Machine](https://en.wikipedia.org/wiki/Support_vector_machine), [Pipeline](https://medium.com/analytics-vidhya/what-is-a-pipeline-in-machine-learning-how-to-create-one-bda91d0ceaca), [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
 
 
 
@@ -31,7 +29,7 @@
 **Complete JupyterNotebook:** [Link](https://github.com/Kmohamedalie/Face-Recognition-PCA-SVM/blob/master/Notebook/Face%20Recognition%20(SVM%20%2C%20GridSearchCV%2C%20PCA%2C%20Ml-Pipeline).ipynb)
 
 
-### **Metrics:**
+### **Achieved metrics:**
 | Algorithm | Recall | Precision | F1-score | Accuracy |
 | --------- |--------|-----------|----------|----------|
 |Support Vector Machine | 91.85% |	91.93%	| 91.93%  |	91.93% |
