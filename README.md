@@ -37,9 +37,10 @@
 
     
 
+<br> 
 <br>
 
-**DISCLAIMER FROM THE CREATORS:**
+**DISCLAIMER FROM THE DATABASE CREATORS:**
 
 Labeled Faces in the Wild is a public benchmark for face verification, also known as pair matching. No matter what the performance of an algorithm on LFW, it should not be used to conclude that an algorithm is suitable for any commercial purpose. [**-Universtiy of Massachusetts**](http://vis-www.cs.umass.edu/lfw/)
 
